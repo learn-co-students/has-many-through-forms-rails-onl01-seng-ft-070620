@@ -10,4 +10,9 @@ class Post < ActiveRecord::Base
     end
   end
 
+
+  #//asd
+
 end
+
+
